@@ -20,10 +20,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section>
-        <p>[Introduction]</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn" class="text-green-500 hover:underline">our Next.js tutorial</a>.)
+          I'm currently focused on building {' '}
+          <a href="https://driveway.app">Driveway.app</a>
         </p>
       </section>
       <section class="prose">
